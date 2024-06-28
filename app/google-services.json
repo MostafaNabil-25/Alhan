@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190040863457",
+    "project_id": "emusic-4f108",
+    "storage_bucket": "emusic-4f108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190040863457:android:1d7c7d8b510f1c9d073da0",
+        "android_client_info": {
+          "package_name": "com.example.emusic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3HZ-1LRTiqZ9c_TJ8yjBNQueWBbrPJCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
